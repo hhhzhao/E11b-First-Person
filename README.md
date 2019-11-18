@@ -1,5 +1,6 @@
 # E11b-First-Person
-
+Hello, this is Hua Zhao. For the homework, I have studied how to make a first person character and let the character to mover around the scene. The character is able to move follow the mouse and jump around. 
+Hope in the future I will learn more about it. Enjoy!
 This is an opportunity to begin to experiment with a first-person perspective in a Godot 3D environment. This exercise will involve creating collision shapes to represent the player's body and then controlling the camera with the keyboard and mouse.
 
 First, **fork and clone** this repository. Then, open Godot and Import a project. Find the location of this repository in the Godot file picker and then open the project.godot file.
